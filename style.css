@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-main {
+    color: #5c5c5c;
+}
+
+.nav-main :hover {
+    color: black;
+}
+
+.nav-1 {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.dropdown-menu {
+    border: none;
+}
+
+.dropdown-menu li a:hover {
+    background-color: rgba(29, 25, 44, 0.5);
+    color: white;
+}
