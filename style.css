@@ -123,3 +123,12 @@
         display: none;
     }
 }
+
+.text-3 h1 {
+    color: black;
+}
+
+.text-3 p {
+    color: #666666;
+    font-style: italic;
+}
