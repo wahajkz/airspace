@@ -132,3 +132,31 @@
     color: #666666;
     font-style: italic;
 }
+
+.services i {
+    font-size: 45px;
+    color: #655E7A;
+}
+
+.services h5 {
+    color: #655E7A;
+}
+
+.services p {
+    color: #666666;
+    font-size: 14px;
+}
+
+.services-1 i {
+    font-size: 45px;
+    color: #655E7A;
+}
+
+.services-1 h5 {
+    color: #655E7A;
+}
+
+.services-1 p {
+    color: #666666;
+    font-size: 14px;
+}
