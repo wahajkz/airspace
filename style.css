@@ -160,3 +160,41 @@
     color: #666666;
     font-size: 14px;
 }
+
+.slider-2 {
+    background: url(call-to-action-bg.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 10% 0%;
+    padding: 200px 0;
+    position: relative;
+}
+
+.txt-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt-4 h2 {
+    color: black;
+}
+
+.txt-4 p {
+    color: black;
+}
+
+.txt-5 {
+    height: 50px;
+    width: 250px;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt-5:hover {
+    background-color: #655E7A;
+    color: white;
+}
